@@ -25,8 +25,14 @@ Jag behövde även börja om med hur jag skapade spelets sida eftersom jag hade 
 
 Nu är jag mer säker på hur jag gör min sida mer dynamisk och interaktiv med hjälp av scale etc.
 
+# Vad jag har gjort
+
 <ol style="list-style-type:numeric; list-style-position:inside;">
 <li> Skapat enkel hemsida</li>
 <li> Fått tillgång till API</li>
 <li> Skapat enkel spelsida</li>
 </ol>
+
+# Inför nästa blog-inlägg
+
+Ska lista ut hur jag använder API och försöka skapa ett sätt att logga in med sitt LastFM konto.
