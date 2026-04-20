@@ -1,16 +1,32 @@
 ---
-title: "Seg start"
-date: "2026-04-14"
-effort: "låg"
+title: "Uppstart"
+date: "2026-04-20"
+effort: "Medel"
 meme: "https://i.programmerhumor.io/2023/03/programmerhumor-io-programming-memes-b592bb1eb466dde.png"
 ---
 
-# Trögt på hjärnkontoret
+# Lovanda start
 
-text om prokrastinering och de små framsteg sedan sist.
+Redan innan detta moment startade hade jag en idé om vad jag ville göra med mitt projekt. Eftersom jag älskar musik bestämde
+jag mig för att skapa en hemsida där man kan spela ett spel baserat på musiken du lyssnar på. Som start behövde jag arbeta med att
+skapa ett API konto på LastFM för att få tillgång till deras API. Detta var lättare än jag trodde. Jag skapade även en enkel hemsida
+samt en enkel sida för själva spelet.
+
+Mitt mål var att skapa ett API konto, en enkel sida och ladda upp på github. Jag lyckades med detta och lite till.
+
+# Problem jag stötte på
+
+Jag är förvånad över hur svårt det skulle vara att göra sidan dynamisk och interaktiv. Jag hade från början inte riktigt koll på
+hur hover och active funktioner fungerade.
+
+Jag behövde även börja om med hur jag skapade spelets sida eftersom jag hade gjort den på ett krångligt sätt.
+
+# Vad jag lärt mig
+
+Nu är jag mer säker på hur jag gör min sida mer dynamisk och interaktiv med hjälp av scale etc.
 
 <ol style="list-style-type:numeric; list-style-position:inside;">
-<li> Delmoment 3</li>
-<li> Delmoment 5 - Tog inspiration från ___ </li>
-<li> Moment 3 - omprioriterat - detta behövs för funktionalitet </li>
+<li> Skapat enkel hemsida</li>
+<li> Fått tillgång till API</li>
+<li> Skapat enkel spelsida</li>
 </ol>
