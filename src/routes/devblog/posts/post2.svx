@@ -1,6 +1,6 @@
 ---
-title: "Locking in"
-date: "2026-04-24"
+title: "Framgångar och problem.."
+date: "2026-04-27"
 effort: "medel"
 meme: "https://i.imgur.com/5Nz7PDn.jpeg"
 ---
@@ -11,21 +11,21 @@ meme: "https://i.imgur.com/5Nz7PDn.jpeg"
 
 # Layout 
 
-Text om vilka delar som fixade - tanke bakom designen. 
-
-
-Kod som skapades med en grid-generator 
-<CodeBlock code= ".parent &#123
-display: grid;
-grid-template-columns: repeat(5, 1fr);
-grid-template-rows: repeat(5, 1fr);
-grid-column-gap: 0px;
-grid-row-gap: 0px;
-}
-.div1 &#123 grid-area: 1 / 1 / 3 / 3; &#125
-.div2 &#123 grid-area: 1 / 3 / 4 / 4; &#125
-.div3 &#123 grid-area: 3 / 1 / 4 / 3; &#125" lang="css" />
-
+Mitt mål var att skapa ett sätt att logga in med sitt LastFm konto samt försöka
+interegera med API. Det gick att skapa ett sätt att logga in men det finns problem med
+hur jag ska hitta och använda en "secret" som jag borde ha.
+.
+Det problemet som jag har haft och som inte är löst är att det inte går att hitta en "secret"
+som borde finnas vid min dev account sida på LastFm. Det verkar inte som att någon annan har detta problem
+så det är svårt att hitta lösningar. Annars var det även svårt att skapa en server och tillåta
+användaren att logga in och authentisera servern
+.
+Jag lärde mig hur man ytterliggare kunde använda sig av API på ett sött jag inte gjort förut.
+Jag har också lärt mig hur man skapar funktioner på en fil och sen använder dem i en annan.
+.
+Som sagt så har jag skapat ett sätt att logga in i LastFm och sedan ge min sida tillgång till användarens konto.
+.
+Nästa gång ska jag hitta secret och försöka få ut två olika låtar som användaren har lyssnat på och sätta in dem i min hemsida.
 
 
 
